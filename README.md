@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+
 # Typing Battle — Real-Time Typing Competition
 
 ## Project Description
@@ -22,6 +23,3 @@ Typing Battle is a real-time web application where players compete by quickly ty
 node server.js - run backend server (already compiled version)
 npm run dev - run Next.js frontend
 =======
-# Typing-Battle
-real-time multiplayer typing competition game built with Next.js, Socket.IO, and TailwindCSS. Race against others to type sentences accurately and fast, track live stats, and compete in timed rounds!
->>>>>>> 48a479229aed4bad975b5d5a9debdf2a9d1c623a
